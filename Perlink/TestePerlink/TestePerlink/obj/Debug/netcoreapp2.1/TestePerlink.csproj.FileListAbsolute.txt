@@ -1,0 +1,11 @@
+C:\Users\Leonardo\Desktop\Perlink\TestePerlink\TestePerlink\bin\Debug\netcoreapp2.1\TestePerlink.deps.json
+C:\Users\Leonardo\Desktop\Perlink\TestePerlink\TestePerlink\bin\Debug\netcoreapp2.1\TestePerlink.runtimeconfig.json
+C:\Users\Leonardo\Desktop\Perlink\TestePerlink\TestePerlink\bin\Debug\netcoreapp2.1\TestePerlink.runtimeconfig.dev.json
+C:\Users\Leonardo\Desktop\Perlink\TestePerlink\TestePerlink\bin\Debug\netcoreapp2.1\TestePerlink.dll
+C:\Users\Leonardo\Desktop\Perlink\TestePerlink\TestePerlink\bin\Debug\netcoreapp2.1\TestePerlink.pdb
+C:\Users\Leonardo\Desktop\Perlink\TestePerlink\TestePerlink\obj\Debug\netcoreapp2.1\TestePerlink.csprojAssemblyReference.cache
+C:\Users\Leonardo\Desktop\Perlink\TestePerlink\TestePerlink\obj\Debug\netcoreapp2.1\TestePerlink.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Desktop\Perlink\TestePerlink\TestePerlink\obj\Debug\netcoreapp2.1\TestePerlink.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Desktop\Perlink\TestePerlink\TestePerlink\obj\Debug\netcoreapp2.1\TestePerlink.AssemblyInfo.cs
+C:\Users\Leonardo\Desktop\Perlink\TestePerlink\TestePerlink\obj\Debug\netcoreapp2.1\TestePerlink.dll
+C:\Users\Leonardo\Desktop\Perlink\TestePerlink\TestePerlink\obj\Debug\netcoreapp2.1\TestePerlink.pdb

@@ -1,0 +1,10 @@
+C:\Users\Leonardo\Desktop\Curso C#\Course\Course\bin\Release\netcoreapp2.1\Course.deps.json
+C:\Users\Leonardo\Desktop\Curso C#\Course\Course\bin\Release\netcoreapp2.1\Course.runtimeconfig.json
+C:\Users\Leonardo\Desktop\Curso C#\Course\Course\bin\Release\netcoreapp2.1\Course.runtimeconfig.dev.json
+C:\Users\Leonardo\Desktop\Curso C#\Course\Course\bin\Release\netcoreapp2.1\Course.dll
+C:\Users\Leonardo\Desktop\Curso C#\Course\Course\bin\Release\netcoreapp2.1\Course.pdb
+C:\Users\Leonardo\Desktop\Curso C#\Course\Course\obj\Release\netcoreapp2.1\Course.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Desktop\Curso C#\Course\Course\obj\Release\netcoreapp2.1\Course.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Desktop\Curso C#\Course\Course\obj\Release\netcoreapp2.1\Course.AssemblyInfo.cs
+C:\Users\Leonardo\Desktop\Curso C#\Course\Course\obj\Release\netcoreapp2.1\Course.dll
+C:\Users\Leonardo\Desktop\Curso C#\Course\Course\obj\Release\netcoreapp2.1\Course.pdb

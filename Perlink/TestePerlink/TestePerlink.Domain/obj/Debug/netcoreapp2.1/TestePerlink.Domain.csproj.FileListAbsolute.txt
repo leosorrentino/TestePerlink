@@ -1,0 +1,4 @@
+C:\Users\Leonardo\Desktop\Perlink\TestePerlink\TestePerlink.Domain\obj\Debug\netcoreapp2.1\TestePerlink.Domain.csprojAssemblyReference.cache
+C:\Users\Leonardo\Desktop\Perlink\TestePerlink\TestePerlink.Domain\obj\Debug\netcoreapp2.1\TestePerlink.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Desktop\Perlink\TestePerlink\TestePerlink.Domain\obj\Debug\netcoreapp2.1\TestePerlink.Domain.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Desktop\Perlink\TestePerlink\TestePerlink.Domain\obj\Debug\netcoreapp2.1\TestePerlink.Domain.AssemblyInfo.cs

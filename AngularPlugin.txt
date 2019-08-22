@@ -1,0 +1,28 @@
+﻿
+-- Angular "Plugins -- 
+
+https://www.npmjs.com/package/bootstrap
+
+--Instação do bootstrap para o angular
+
+https://www.npmjs.com/package/angular-imask
+
+--Plugin para mascaras para angular(cep, data, telefone)
+
+https://www.npmjs.com/package/currency-formatter
+
+--Formatação de valores
+
+https://momentjs.com/
+
+https://www.npmjs.com/package/angular-toastr
+
+--Validação ("node_modules/toastr/build/toastr.min.css")
+
+https://www.primefaces.org/primeng/#/calendar
+
+--Calendario
+
+https://github.com/angular/in-memory-web-api
+
+Criando uma API, para guardar os dados em memoria

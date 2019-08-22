@@ -1,0 +1,16 @@
+C:\Users\Leonardo\Desktop\Curso Angular\CursoDDD_MVC5_Entity\CursoMVC5DDD\src\EP.CursoMVC.Infra.Data\bin\Debug\EP.CursoMVC.Infra.Data.dll.config
+C:\Users\Leonardo\Desktop\Curso Angular\CursoDDD_MVC5_Entity\CursoMVC5DDD\src\EP.CursoMVC.Infra.Data\bin\Debug\EP.CursoMVC.Infra.Data.dll
+C:\Users\Leonardo\Desktop\Curso Angular\CursoDDD_MVC5_Entity\CursoMVC5DDD\src\EP.CursoMVC.Infra.Data\bin\Debug\EP.CursoMVC.Infra.Data.pdb
+C:\Users\Leonardo\Desktop\Curso Angular\CursoDDD_MVC5_Entity\CursoMVC5DDD\src\EP.CursoMVC.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\Leonardo\Desktop\Curso Angular\CursoDDD_MVC5_Entity\CursoMVC5DDD\src\EP.CursoMVC.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Leonardo\Desktop\Curso Angular\CursoDDD_MVC5_Entity\CursoMVC5DDD\src\EP.CursoMVC.Infra.Data\bin\Debug\EP.CursoMVC.Domain.dll
+C:\Users\Leonardo\Desktop\Curso Angular\CursoDDD_MVC5_Entity\CursoMVC5DDD\src\EP.CursoMVC.Infra.Data\bin\Debug\EP.CursoMVC.Domain.pdb
+C:\Users\Leonardo\Desktop\Curso Angular\CursoDDD_MVC5_Entity\CursoMVC5DDD\src\EP.CursoMVC.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\Leonardo\Desktop\Curso Angular\CursoDDD_MVC5_Entity\CursoMVC5DDD\src\EP.CursoMVC.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Leonardo\Desktop\Curso Angular\CursoDDD_MVC5_Entity\CursoMVC5DDD\src\EP.CursoMVC.Infra.Data\obj\Debug\EP.CursoMVC.Infra.Data.csprojAssemblyReference.cache
+C:\Users\Leonardo\Desktop\Curso Angular\CursoDDD_MVC5_Entity\CursoMVC5DDD\src\EP.CursoMVC.Infra.Data\obj\Debug\EP.CursoMVC.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Desktop\Curso Angular\CursoDDD_MVC5_Entity\CursoMVC5DDD\src\EP.CursoMVC.Infra.Data\obj\Debug\EP.CursoMVC.Infra.Data.csproj.CopyComplete
+C:\Users\Leonardo\Desktop\Curso Angular\CursoDDD_MVC5_Entity\CursoMVC5DDD\src\EP.CursoMVC.Infra.Data\obj\Debug\EP.CursoMVC.Infra.Data.dll
+C:\Users\Leonardo\Desktop\Curso Angular\CursoDDD_MVC5_Entity\CursoMVC5DDD\src\EP.CursoMVC.Infra.Data\obj\Debug\EP.CursoMVC.Infra.Data.pdb
+C:\Users\Leonardo\Desktop\Curso Angular\CursoDDD_MVC5_Entity\CursoMVC5DDD\src\EP.CursoMVC.Infra.Data\bin\Debug\Dapper.dll
+C:\Users\Leonardo\Desktop\Curso Angular\CursoDDD_MVC5_Entity\CursoMVC5DDD\src\EP.CursoMVC.Infra.Data\bin\Debug\Dapper.xml

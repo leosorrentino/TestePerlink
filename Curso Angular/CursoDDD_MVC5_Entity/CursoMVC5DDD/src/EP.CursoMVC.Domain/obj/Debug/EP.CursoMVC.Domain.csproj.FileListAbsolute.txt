@@ -1,0 +1,5 @@
+C:\Users\Leonardo\Desktop\Curso Angular\CursoDDD_MVC5_Entity\CursoMVC5DDD\src\EP.CursoMVC.Domain\bin\Debug\EP.CursoMVC.Domain.dll
+C:\Users\Leonardo\Desktop\Curso Angular\CursoDDD_MVC5_Entity\CursoMVC5DDD\src\EP.CursoMVC.Domain\bin\Debug\EP.CursoMVC.Domain.pdb
+C:\Users\Leonardo\Desktop\Curso Angular\CursoDDD_MVC5_Entity\CursoMVC5DDD\src\EP.CursoMVC.Domain\obj\Debug\EP.CursoMVC.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Desktop\Curso Angular\CursoDDD_MVC5_Entity\CursoMVC5DDD\src\EP.CursoMVC.Domain\obj\Debug\EP.CursoMVC.Domain.dll
+C:\Users\Leonardo\Desktop\Curso Angular\CursoDDD_MVC5_Entity\CursoMVC5DDD\src\EP.CursoMVC.Domain\obj\Debug\EP.CursoMVC.Domain.pdb

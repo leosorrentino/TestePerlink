@@ -1,0 +1,11 @@
+C:\Users\Leonardo\Desktop\Curso2019Console\Curso2019Console\bin\Debug\netcoreapp2.1\Curso2019Console.deps.json
+C:\Users\Leonardo\Desktop\Curso2019Console\Curso2019Console\bin\Debug\netcoreapp2.1\Curso2019Console.runtimeconfig.json
+C:\Users\Leonardo\Desktop\Curso2019Console\Curso2019Console\bin\Debug\netcoreapp2.1\Curso2019Console.runtimeconfig.dev.json
+C:\Users\Leonardo\Desktop\Curso2019Console\Curso2019Console\bin\Debug\netcoreapp2.1\Curso2019Console.dll
+C:\Users\Leonardo\Desktop\Curso2019Console\Curso2019Console\bin\Debug\netcoreapp2.1\Curso2019Console.pdb
+C:\Users\Leonardo\Desktop\Curso2019Console\Curso2019Console\obj\Debug\netcoreapp2.1\Curso2019Console.csprojAssemblyReference.cache
+C:\Users\Leonardo\Desktop\Curso2019Console\Curso2019Console\obj\Debug\netcoreapp2.1\Curso2019Console.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Desktop\Curso2019Console\Curso2019Console\obj\Debug\netcoreapp2.1\Curso2019Console.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Desktop\Curso2019Console\Curso2019Console\obj\Debug\netcoreapp2.1\Curso2019Console.AssemblyInfo.cs
+C:\Users\Leonardo\Desktop\Curso2019Console\Curso2019Console\obj\Debug\netcoreapp2.1\Curso2019Console.dll
+C:\Users\Leonardo\Desktop\Curso2019Console\Curso2019Console\obj\Debug\netcoreapp2.1\Curso2019Console.pdb

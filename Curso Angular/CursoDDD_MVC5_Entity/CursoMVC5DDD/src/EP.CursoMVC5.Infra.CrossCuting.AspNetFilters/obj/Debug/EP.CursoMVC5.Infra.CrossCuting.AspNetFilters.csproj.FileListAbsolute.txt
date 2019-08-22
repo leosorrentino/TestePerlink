@@ -1,0 +1,8 @@
+C:\Users\Leonardo\Desktop\Curso Angular\CursoDDD_MVC5_Entity\CursoMVC5DDD\src\EP.CursoMVC5.Infra.CrossCuting.AspNetFilters\bin\Debug\EP.CursoMVC5.Infra.CrossCuting.AspNetFilters.dll
+C:\Users\Leonardo\Desktop\Curso Angular\CursoDDD_MVC5_Entity\CursoMVC5DDD\src\EP.CursoMVC5.Infra.CrossCuting.AspNetFilters\bin\Debug\EP.CursoMVC5.Infra.CrossCuting.AspNetFilters.pdb
+C:\Users\Leonardo\Desktop\Curso Angular\CursoDDD_MVC5_Entity\CursoMVC5DDD\src\EP.CursoMVC5.Infra.CrossCuting.AspNetFilters\bin\Debug\System.Web.Mvc.xml
+C:\Users\Leonardo\Desktop\Curso Angular\CursoDDD_MVC5_Entity\CursoMVC5DDD\src\EP.CursoMVC5.Infra.CrossCuting.AspNetFilters\obj\Debug\EP.CursoMVC5.Infra.CrossCuting.AspNetFilters.csprojAssemblyReference.cache
+C:\Users\Leonardo\Desktop\Curso Angular\CursoDDD_MVC5_Entity\CursoMVC5DDD\src\EP.CursoMVC5.Infra.CrossCuting.AspNetFilters\obj\Debug\EP.CursoMVC5.Infra.CrossCuting.AspNetFilters.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Desktop\Curso Angular\CursoDDD_MVC5_Entity\CursoMVC5DDD\src\EP.CursoMVC5.Infra.CrossCuting.AspNetFilters\obj\Debug\EP.CursoMVC5.Infra.CrossCuting.AspNetFilters.csproj.CopyComplete
+C:\Users\Leonardo\Desktop\Curso Angular\CursoDDD_MVC5_Entity\CursoMVC5DDD\src\EP.CursoMVC5.Infra.CrossCuting.AspNetFilters\obj\Debug\EP.CursoMVC5.Infra.CrossCuting.AspNetFilters.dll
+C:\Users\Leonardo\Desktop\Curso Angular\CursoDDD_MVC5_Entity\CursoMVC5DDD\src\EP.CursoMVC5.Infra.CrossCuting.AspNetFilters\obj\Debug\EP.CursoMVC5.Infra.CrossCuting.AspNetFilters.pdb
